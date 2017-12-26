@@ -1,0 +1,24 @@
+{
+  "name": "blog-theme",
+  "version": "1.0.0",
+  "description": "toc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeyhavoc/blog-theme.git"
+  },
+  "author": "m.w",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikeyhavoc/blog-theme/issues"
+  },
+  "homepage": "https://github.com/mikeyhavoc/blog-theme#readme",
+  "devDependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.9"
+  }
+}
